@@ -1,0 +1,16 @@
+*.parquet
+*.out
+*.log
+outputs/
+output/
+logs/
+log/
+__pycache__/
+.ipynb_checkpoints/
+checkpoint/
+build/
+*.pt
+libtorch/
+*.bin
+
+.DS_Store
